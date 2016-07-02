@@ -24,4 +24,4 @@ Save the template locally with:
 
 Create a new Node.js project with:
 
-    khaos ttt-play my-project
+    khaos create ttt-play my-project
