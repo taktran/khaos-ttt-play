@@ -7,16 +7,16 @@
 * Install [nvm](https://github.com/creationix/nvm)
 * Use correct node version
 
-    nvm use
+        nvm use
 
 * Install dependencies
 
-    npm install
+        npm install
 
 * To run the app
 
-    npm start
+        npm start
 
 * To run the app with livereload
 
-    npm run dev
+        npm run dev
