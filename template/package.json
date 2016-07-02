@@ -1,0 +1,18 @@
+{
+  "name": "{{basename}}",
+  "version": "0.0.1",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js",
+    "dev": "budo index.js --live",
+    "lint": "semistandard",
+    "test": "npm run lint"
+  },
+  "author": "Tak Tran <contact@tutaktran.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "budo": "8.3.0",
+    "semistandard": "8.0.0"
+  }
+}
