@@ -6,7 +6,7 @@ Uses [khaos](https://github.com/segmentio/khaos) as a light weight scaffolding f
 
 The template includes:
 
-* Node.js v6
+* Node.js v8
 * [Budo](https://github.com/mattdesl/budo) for rapid prototyping
 * [Semistandard](https://github.com/Flet/semistandard) for JavaScript linting with the glory of semicolons
 
